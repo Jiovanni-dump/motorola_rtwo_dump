@@ -1,0 +1,14 @@
+# user 15 TTR3S3HV-V1-ST13 2590e release-keys
+- manufacturer: motorola
+- platform: kalama
+- codename: rtwo
+- flavor: user
+- release: 15
+- id: TTR3S3HV-V1-ST13
+- incremental: 2590e
+- tags: release-keys
+- fingerprint: motorola/rtwo/rtwo:13/TTR3S3HV-V1-ST13/2590e:user/release-keys
+- is_ab: true
+- brand: motorola
+- branch: user-15-TTR3S3HV-V1-ST13-2590e-release-keys
+- repo: motorola_rtwo_dump
