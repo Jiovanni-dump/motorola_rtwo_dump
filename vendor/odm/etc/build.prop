@@ -1,0 +1,31 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.odm.brand=motorola
+ro.product.odm.device=rtwo
+ro.product.odm.manufacturer=motorola
+ro.product.odm.model=Kalama for arm64
+ro.product.odm.name=rtwo
+ro.odm.product.cpu.abilist=arm64-v8a,armeabi-v7a,armeabi
+ro.odm.product.cpu.abilist32=armeabi-v7a,armeabi
+ro.odm.product.cpu.abilist64=arm64-v8a
+ro.odm.build.date=Mon Aug 25 13:29:47 CDT 2025
+ro.odm.build.date.utc=1756146587
+ro.odm.build.fingerprint=motorola/rtwo/rtwo:13/TTR3S3HV-V1-ST13/2590e:user/release-keys
+ro.odm.build.id=TTR3S3HV-V1-ST13
+ro.odm.build.tags=release-keys
+ro.odm.build.type=user
+ro.odm.build.version.incremental=2590e
+ro.odm.build.version.release=13
+ro.odm.build.version.release_or_codename=13
+ro.odm.build.version.sdk=33
+####################################
+# from variable ADDITIONAL_ODM_PROPERTIES
+####################################
+ro.vendor.qti.va_odm.support=1
+####################################
+# from variable PRODUCT_ODM_PROPERTIES
+####################################
+# end of file
+
