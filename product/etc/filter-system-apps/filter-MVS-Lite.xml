@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<filter-system-apps>
+    <module name="MVS-Lite" action="enable" prop="ro.carrier" value="spectrum;comcast;retus"/>
+</filter-system-apps>
